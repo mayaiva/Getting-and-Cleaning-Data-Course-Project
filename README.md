@@ -9,13 +9,13 @@ output: md_document
 
 ## R Markdown
 
-Overview
+### Overview
 
 This project serves to demonstrate the collection and cleaning of a tidy data set that can be used for subsequent analysis. A full description of the data used in this project 
 can be found at The UCI Machine Learning Repository
 
 
-Project Summary
+#### Project Summary
 
 The following is a summary description of the project instructions
 
@@ -27,13 +27,13 @@ Uses descriptive activity names to name the activities in the data set
 Appropriately labels the data set with descriptive activity names.
 Creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 
-Data 
+#### Data 
 
 The tidy_data.txt data file is a text file, containing space-separated values.
 
 The first row contains the names of the variables, which are listed and described in the Variables section, and the following rows contain the values of these variables.
 
-Variables
+#### Variables
 
 Each row contains, for a given subject and activity, averaged signal measurements.
 
