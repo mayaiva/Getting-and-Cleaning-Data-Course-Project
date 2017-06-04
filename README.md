@@ -47,11 +47,11 @@ activity
 
 Activity identifier, string with 6 possible values:
 
-WALKING: subject was walking
-WALKING_UPSTAIRS: subject was walking upstairs
-WALKING_DOWNSTAIRS: subject was walking downstairs
-SITTING: subject was sitting
-STANDING: subject was standing
+WALKING: subject was walking<br>
+WALKING_UPSTAIRS: subject was walking upstairs<br>
+WALKING_DOWNSTAIRS: subject was walking downstairs<br>
+SITTING: subject was sitting<br>
+STANDING: subject was standing<br>
 LAYING: subject was laying
 
 
