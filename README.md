@@ -1,10 +1,3 @@
----
-title: "Getting and Cleaning Data"
-author: "Maya Ivanova"
-date: "June 2, 2017"
-output: md_document
----
-
 
 
 ## R Markdown
