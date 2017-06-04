@@ -37,15 +37,13 @@ The first row contains the names of the variables, which are listed and describe
 
 Each row contains, for a given subject and activity, averaged signal measurements.
 
-Identifiers
+##### Identifiers
 
-subject
+      subject
+      Subject identifier, integer, ranges from 1 to 30.
 
-Subject identifier, integer, ranges from 1 to 30.
-
-activity
-
-Activity identifier, string with 6 possible values:
+      activity
+      Activity identifier, string with 6 possible values:
 
 WALKING: subject was walking<br>
 WALKING_UPSTAIRS: subject was walking upstairs<br>
